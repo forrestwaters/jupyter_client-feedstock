@@ -38,7 +38,14 @@ about:
   home: http://jupyter.org
   license: BSD 3-clause
   license_file: COPYING.md
-  summary: jupyter_client contains the reference implementation of the Jupyter protocol.
+  summary: Jupyter protocol implementation and client libraries
+  description: |
+    jupyter client contains the reference implementation of the Jupyter
+    protocol.It also provides Python API for starting, managing and
+    communicating with Jupyter kernels.
+  doc_url: http://jupyter-client.readthedocs.org/
+  doc_source_url: https://github.com/jupyter/jupyter_client/blob/master/docs/index.rst
+  dev_url: https://github.com/jupyter/jupyter_client
 
 extra:
   recipe-maintainers:
